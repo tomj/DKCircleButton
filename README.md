@@ -3,11 +3,11 @@ DKCircleButton
 
 Sources of DKCircleButton and Demo app to show circle button tap effect.
 
-##Download
+## Download
     $ git clone https://github.com/kronik/DKCircleButton.git
     $ cd DKCircleButton/
 
-##Usage
+## Usage
 Please check out the demo project included.
 # ![Screenshot](https://raw.github.com/kronik/DKCircleButton/master/example.gif)
 
@@ -29,9 +29,9 @@ Like a regular custom UIButton
   button1.animateTap = NO;
 ```
 
-##Requirements
+## Requirements
 Supported build target - iOS 7.x
 Earliest supported deployment target - iOS 7.0
 
-##License
+## License
 DKCircleButton is available under the MIT license. See the LICENSE file for more info.
